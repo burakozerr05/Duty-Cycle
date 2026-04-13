@@ -1,0 +1,14 @@
+Copyright (c) 2026 Burak ÖZER
+
+TÜM HAKLARI SAKLIDIR / ALL RIGHTS RESERVED.
+
+[TR] Bu yazılımın kaynak kodu, tasarımı ve ilgili tüm dökümanları Burak ÖZER'e aittir. 
+Yazılı izin alınmadan kısmen veya tamamen kopyalanması, değiştirilmesi, dağıtılması 
+veya ticari amaçla kullanılması kesinlikle yasaktır.
+
+[EN] This source code, design, and all related documentation are the property 
+of Burak ÖZER. Unauthorized copying, modification, distribution, 
+or commercial use of this material, in whole or in part, is strictly prohibited 
+without express written permission.
+
+Inquiries: burakozerr05@gmail.com
