@@ -52,3 +52,18 @@ Mantık: Yapay Zeka Entegreli Duygu Durum Analiz Motoru
 This project is for portfolio display purposes only. All rights are reserved by the author. Use or reproduction without permission is prohibited.
 
 Bu proje sadece portfolyo gösterimi amacıyla paylaşılmıştır. Tüm hakları saklıdır. İzin alınmadan kullanılması veya çoğaltılması yasaktır.
+
+🛠 Installation & Run | Kurulum ve Çalıştırma
+
+backend:
+
+- cd Backend
+- .\venv\Scripts\activate
+- pip install -r requirements.txt
+- uvicorn main:app --reload
+
+frontend:
+
+- cd Frontend
+- npm install
+- npm run dev
